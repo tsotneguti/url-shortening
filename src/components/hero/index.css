@@ -1,0 +1,29 @@
+.hero__body {
+    display: flex;
+    justify-content: space-between
+}
+
+.hero__left {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.hero__title {
+    font-weight: var(--fw-bold);
+    font-size: var(--fs-xl);
+    margin-top: 30px;
+}
+
+.hero__subtitle {
+    font-size: var(--fs-md);
+    color: var(--clr-neutral-2);
+}
+
+.hero__right {
+}
+
+.hero__illustration {
+    height: 200px;
+    margin-right: -50px;
+}
