@@ -9,10 +9,10 @@ function Hero() {
             <div className={`hero__left`}>
               <div className={`hero__title`}>More than just shorter links</div>
               <div className={`hero__subtitle`}> Build test test test test test
-                test test 123 12 12 12 12
+                test test 123 12 12 12 12 test test test test test test test test
               </div>
               <div
-                  className={`button button--type-primary button--rounded-lg`}>Get
+                  className={`button button--type-primary button--rounded-lg button--size-lg`}>Get
                 started
               </div>
             </div>
